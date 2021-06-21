@@ -8,9 +8,9 @@
         "Telegram Bot",
         "TroJanzHEX"
     ],
-    "website": "https://TroJanzHEX.me",
-    "repository": "https://github.com/TroJanzHEX/Unlimited-Filter-Bot",
-    "success_url": "https://telegram.dog/TroJanzHEX",
+    "website": "https://t.me/Mzonechat",
+    "repository": "https://t.me/joinchat/GaCZ_Z_9P-xhYWQx",
+    "success_url": "https://telegram.dog/@Mzonechat",
     "env": {
         "WEBHOOK": {
             "description": "No need to change this field!",
